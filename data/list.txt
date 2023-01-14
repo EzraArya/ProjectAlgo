@@ -1,0 +1,7 @@
+dd-mm-yyyy namakegiatan #prioritas
+
+13-12-2022 eat #nonprioritas
+15-12-2022 sleep #nonprioritas
+16-12-2022 wake #nonprioritas
+17-12-2022 working #prioritas
+19-12-2022 read #nonprioritas
